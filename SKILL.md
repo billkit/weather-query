@@ -88,9 +88,3 @@ python3 {baseDir}/scripts/weather.py 城市名 --json
 - 支持中国 3000+ 城市
 - 8-15 天预报具有不确定性，仅供参考
 - 建议出行前查看最新短期预报
-
-## 分配信息
-
-- **使用代理**: 信息专员
-- **共享目录**: ~/.openclaw/skills/weather-query
-- **创建时间**: 2026-02-19
